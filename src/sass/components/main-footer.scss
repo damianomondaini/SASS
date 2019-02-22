@@ -1,0 +1,13 @@
+/*------------------*
+# Main Footer
+*------------------*/
+
+.main-footer {
+    background-color: $color-vix-black;
+    display: flex;
+    justify-content: center;
+}
+
+.main-footer *{
+    color: white;
+}

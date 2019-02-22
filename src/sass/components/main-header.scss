@@ -1,0 +1,23 @@
+/*------------------*
+# Main Header
+*------------------*/
+
+.main-header {
+    background-color: $color-vix;
+}
+
+.main-header nav ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.main-header nav ul li a{
+    color: $color-white;
+    text-decoration: none;
+}
+
+.main-header nav ul li a:hover{
+    text-decoration: underline;
+}
